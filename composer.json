@@ -1,0 +1,21 @@
+{
+    "name": "nakamurayuta/php-library",
+    "description": "sample lib",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nakamurayuta\\PhpLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yutanakamura",
+            "email": "nakamurayuta@team-lab.com"
+        }
+    ],
+    "require": {},
+    "repositories": {
+        "type":"git",
+        "url":"https://github.com/yu7a21/php-library.git"
+    }
+}
