@@ -5,6 +5,6 @@ namespace Nakamurayuta\PhpLibrary\Service;
 class LibraryService {
     public function execute()
     {
-        return "this is composer-lib!";
+        return "this is composer-lib edited!";
     }
 }
